@@ -1,2 +1,2 @@
 # HowToBuyAHome
-howtobuyahome.com.au
+https://howtobuyahome.com.au
