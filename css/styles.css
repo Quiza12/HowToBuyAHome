@@ -167,11 +167,11 @@ header {
 }
 
 #nav-column {
-  flex: 10%;
+  flex: 15%;
 }
 
 #content-column {
-  flex: 50%;
+  flex: 45%;
 }
 
 #padding-left-column {
@@ -186,6 +186,16 @@ header {
 
 #nav-items {
   list-style: none;
+  text-decoration: none;
+}
+
+#main-nav-item {
+  font-weight: bold;
+}
+
+#sub-nav-item {
+  font-weight: normal;
+  padding-left: 20px;
 }
 
 /* Section Styling */
@@ -195,7 +205,7 @@ header {
 }
 
 #section-title {
-  
+
 }
 
 #section-content {
